@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c6303c682c7ff1a3",
+            "id": "1f246a3c699762d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,13 +128,21 @@
                 "file": "Конспекты/Коллекции и Generic.md"
               }
             }
+          },
+          {
+            "id": "223c85ae0d1b381d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,10 +154,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6303c682c7ff1a3",
+  "active": "1f246a3c699762d5",
   "lastOpenFiles": [
-    "Linux test commit.md",
-    "Конспекты/Коллекции и Generic.md",
-    "Untitled"
+    "JavaNotes/Конспекты/Коллекции и Generic.md",
+    "JavaNotes/Конспекты",
+    "JavaNotes/Books/JAVA_Core_Методичка.pdf",
+    "JavaNotes/Books",
+    "JavaNotes",
+    "Untitled.md",
+    "Resourses/Obsidian/Security/SSH/SSH - аутентификация на основе ключей.md",
+    "Resourses/Obsidian/Security/SSH/SSH - sshpass.md",
+    "Resourses/Obsidian/Security/SSH/SSH - agent.md",
+    "Resourses/Obsidian/Media/pgAdmin4/image_9.png",
+    "Resourses/Obsidian/Media/pgAdmin4/image_8.png",
+    "Resourses/Obsidian/Media/pgAdmin4/image_7.png",
+    "Resourses/Obsidian/Media/pgAdmin4/image_6.png",
+    "Resourses/Obsidian/Media/pgAdmin4/image_5.png",
+    "Resourses/Obsidian/Media/pgAdmin4/image_4.png",
+    "Resourses/Obsidian/Media/pgAdmin4/image_3.png",
+    "Resourses/Obsidian/Media/pgAdmin4/image_28.png",
+    "Resourses/Obsidian/Media/pgAdmin4/image_27.png",
+    "Resourses/Obsidian/Media/pgAdmin4/image_26.png",
+    "Resourses/Obsidian/Media/Files/tor-expert-bundle-windows-x86_64-13.0.13.tar.gz",
+    "Resourses/Obsidian/Media/Files/tor-expert-bundle-linux-x86_64-13.5.tar.gz",
+    "Resourses/Obsidian/Media/Files/mipsel-installer.tar.gz",
+    "Resourses/Obsidian/Media/Files/mips-installer.tar.gz",
+    "Resourses/Obsidian/Media/Files/mi_setup.exe",
+    "Resourses/Obsidian/Media/Files/lusrmgr.exe",
+    "Resourses/Obsidian/Routers/OpenWRT/OpenWRT - Установка PassWall2.md",
+    "Resourses/Obsidian/Routers/OpenWRT/OpenWRT - Точечная маршрутизация по доменам.md",
+    "Resourses/Obsidian/Routers/OpenWRT/OpenWRT - Прокси VLESS, Shadowsocks, Shadowsocks2022.md",
+    "Resourses/Obsidian/Routers/OpenWRT/OpenWRT - Подключение USB-флешки или USB-диска.md",
+    "Resourses/Obsidian/Routers/OpenWRT/OpenWRT - Обход блокировок с помощью Sing-box.md",
+    "Resourses/Obsidian/Routers/OpenWRT/OpenWRT - Обновление.md",
+    "Resourses/Obsidian/Routers/OpenWRT/OpenWRT - Passwall (v2ray, xray, trojan) и tun2socks.md",
+    "Resourses/Obsidian/Routers/OpenWRT/OpenWRT - HomeProxy (sing-box).md",
+    "Resourses/Obsidian/Routers/OpenWRT/OpenWRT - Grafana Cloud и Prometheus.md",
+    "Resourses/Obsidian/Routers/OpenWRT/OpenWRT - Grafana + Prometeus в Docker.md",
+    "Resourses/Obsidian/Routers/OpenWRT/OpenWRT -  Настройка клиента OpenVPN.md",
+    "Resourses/Obsidian/Routers/OpenWRT/OpenWRT -  vsftpd.md",
+    "Resourses/Obsidian/Routers/Keenetic/Keenetic - Установка OPKG Entware на встроенную память роутера.md",
+    "Resourses/Obsidian/Routers/Keenetic/Keenetic - Установка OPKG Entware на USB-накопитель.md",
+    "Resourses/Obsidian/Routers/Keenetic/Keenetic - Xray на VDS сервере и маршрутизаторе.md",
+    "Resourses/Obsidian/Routers/Keenetic/Keenetic - Xray (скрипт Xkeen).md",
+    "Resourses/Obsidian/Routers/Keenetic/Keenetic - VPN-сервер SSTP.md",
+    "Resourses/Obsidian/Routers/Keenetic/Keenetic - Telegram bot.md",
+    "Resourses/Obsidian/Routers/Keenetic/Keenetic - TOR.md",
+    "Resourses/Obsidian/Routers/Keenetic/Keenetic - Prometheus + Grafana + Goflow.md",
+    "Resourses/Obsidian/Routers/Keenetic/Keenetic - EXT4 на USB-накопителях.md"
   ]
 }
