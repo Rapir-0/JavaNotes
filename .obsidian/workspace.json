@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c75c3b9dc1b00ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Полезные команды Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Конспекты/Коллекции и Generic.md",
+                "file": "Linux/Полезные команды Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Конспекты/Коллекции и Generic.md",
+                "file": "Linux/Полезные команды Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Конспекты/Коллекции и Generic.md"
+                "file": "Linux/Полезные команды Linux.md"
               }
             }
           }
@@ -147,15 +160,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d453326f0d2128e",
+  "active": "c75c3b9dc1b00ac5",
   "lastOpenFiles": [
     "Конспекты/Коллекции и Generic.md",
+    "Linux/Полезные команды Linux.md",
+    "Linux",
     "JavaNotes/Конспекты/Коллекции и Generic.md",
     "JavaNotes/Конспекты",
     "JavaNotes/Books/JAVA_Core_Методичка.pdf",
     "JavaNotes/Books",
     "JavaNotes",
-    "Untitled.md",
     "Resourses/Obsidian/Security/SSH/SSH - аутентификация на основе ключей.md",
     "Resourses/Obsidian/Security/SSH/SSH - sshpass.md",
     "Resourses/Obsidian/Security/SSH/SSH - agent.md",
@@ -174,7 +188,6 @@
     "Resourses/Obsidian/Media/Files/mipsel-installer.tar.gz",
     "Resourses/Obsidian/Media/Files/mips-installer.tar.gz",
     "Resourses/Obsidian/Media/Files/mi_setup.exe",
-    "Resourses/Obsidian/Media/Files/lusrmgr.exe",
     "Resourses/Obsidian/Routers/OpenWRT/OpenWRT - Установка PassWall2.md",
     "Resourses/Obsidian/Routers/OpenWRT/OpenWRT - Точечная маршрутизация по доменам.md",
     "Resourses/Obsidian/Routers/OpenWRT/OpenWRT - Прокси VLESS, Shadowsocks, Shadowsocks2022.md",
@@ -193,7 +206,6 @@
     "Resourses/Obsidian/Routers/Keenetic/Keenetic - Xray (скрипт Xkeen).md",
     "Resourses/Obsidian/Routers/Keenetic/Keenetic - VPN-сервер SSTP.md",
     "Resourses/Obsidian/Routers/Keenetic/Keenetic - Telegram bot.md",
-    "Resourses/Obsidian/Routers/Keenetic/Keenetic - TOR.md",
-    "Resourses/Obsidian/Routers/Keenetic/Keenetic - Prometheus + Grafana + Goflow.md"
+    "Resourses/Obsidian/Routers/Keenetic/Keenetic - TOR.md"
   ]
 }
