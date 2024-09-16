@@ -1,4 +1,4 @@
-### Установка arp-scan
+## Установка arp-scan
 
 ```
 sudo dnf install arp-scan
