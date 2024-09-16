@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f246a3c699762d5",
+            "id": "c75c3b9dc1b00ac5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c75c3b9dc1b00ac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Полезные команды Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Полезные команды Linux.md",
+                "file": "Конспекты/Коллекции и Generic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Полезные команды Linux.md",
+                "file": "Конспекты/Коллекции и Generic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Полезные команды Linux.md"
+                "file": "Конспекты/Коллекции и Generic.md"
               }
             }
           }
@@ -162,8 +149,8 @@
   },
   "active": "c75c3b9dc1b00ac5",
   "lastOpenFiles": [
-    "Конспекты/Коллекции и Generic.md",
     "Linux/Полезные команды Linux.md",
+    "Конспекты/Коллекции и Generic.md",
     "Linux",
     "JavaNotes/Конспекты/Коллекции и Generic.md",
     "JavaNotes/Конспекты",

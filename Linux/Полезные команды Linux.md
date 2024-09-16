@@ -11,7 +11,7 @@ sudo dnf install arp-scan
 sudo arp-scan --localnet
 ```
 
-Далее подключаемся к нужному хосту
+Далее подключаемся к нужному хосту по SSH
 
 ```
 ssh pi@192.168.10.74
