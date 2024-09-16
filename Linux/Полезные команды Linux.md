@@ -1,3 +1,9 @@
+### Установка arp-scan
+
+```
+sudo dnf install arp-scan
+```
+
 Для сканирования всех девайсов в локальной сети: 
 **(Замена Bitwise SSH Client)**
 
