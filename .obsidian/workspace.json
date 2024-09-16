@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "19612c5e5db57442",
@@ -128,21 +128,14 @@
                 "file": "Конспекты/Коллекции и Generic.md"
               }
             }
-          },
-          {
-            "id": "223c85ae0d1b381d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f246a3c699762d5",
+  "active": "2d453326f0d2128e",
   "lastOpenFiles": [
+    "Конспекты/Коллекции и Generic.md",
     "JavaNotes/Конспекты/Коллекции и Generic.md",
     "JavaNotes/Конспекты",
     "JavaNotes/Books/JAVA_Core_Методичка.pdf",
@@ -200,7 +194,6 @@
     "Resourses/Obsidian/Routers/Keenetic/Keenetic - VPN-сервер SSTP.md",
     "Resourses/Obsidian/Routers/Keenetic/Keenetic - Telegram bot.md",
     "Resourses/Obsidian/Routers/Keenetic/Keenetic - TOR.md",
-    "Resourses/Obsidian/Routers/Keenetic/Keenetic - Prometheus + Grafana + Goflow.md",
-    "Resourses/Obsidian/Routers/Keenetic/Keenetic - EXT4 на USB-накопителях.md"
+    "Resourses/Obsidian/Routers/Keenetic/Keenetic - Prometheus + Grafana + Goflow.md"
   ]
 }
