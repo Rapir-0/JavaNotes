@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Исключения в Java.md",
+                "file": "Конспекты/Исключения в Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Исключения в Java.md",
+                "file": "Конспекты/Исключения в Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Исключения в Java.md",
+                "file": "Конспекты/Исключения в Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Исключения в Java.md"
+                "file": "Конспекты/Исключения в Java.md"
               }
             }
           }
@@ -160,10 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "923f3f4426dce25b",
+  "active": "13d4719c3275b0d1",
   "lastOpenFiles": [
     "Конспекты/Коллекции и Generic.md",
-    "Исключения в Java.md",
+    "Конспекты/Исключения в Java.md",
     "Что такое дженерики?.md",
     "Linux/Полезные команды Linux.md",
     "Linux",
