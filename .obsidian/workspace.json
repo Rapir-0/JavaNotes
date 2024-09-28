@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "923f3f4426dce25b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Исключения в Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Конспекты/Коллекции и Generic.md",
+                "file": "Исключения в Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Конспекты/Коллекции и Generic.md",
+                "file": "Исключения в Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Конспекты/Коллекции и Generic.md"
+                "file": "Исключения в Java.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c75c3b9dc1b00ac5",
+  "active": "923f3f4426dce25b",
   "lastOpenFiles": [
-    "Что такое дженерики?.md",
     "Конспекты/Коллекции и Generic.md",
+    "Исключения в Java.md",
+    "Что такое дженерики?.md",
     "Linux/Полезные команды Linux.md",
     "Linux",
     "JavaNotes/Конспекты/Коллекции и Generic.md",
@@ -193,7 +207,6 @@
     "Resourses/Obsidian/Routers/Keenetic/Keenetic - Xray на VDS сервере и маршрутизаторе.md",
     "Resourses/Obsidian/Routers/Keenetic/Keenetic - Xray (скрипт Xkeen).md",
     "Resourses/Obsidian/Routers/Keenetic/Keenetic - VPN-сервер SSTP.md",
-    "Resourses/Obsidian/Routers/Keenetic/Keenetic - Telegram bot.md",
-    "Resourses/Obsidian/Routers/Keenetic/Keenetic - TOR.md"
+    "Resourses/Obsidian/Routers/Keenetic/Keenetic - Telegram bot.md"
   ]
 }
